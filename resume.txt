@@ -6,12 +6,15 @@
 </head>
 <body>
 
+<h4>13217008131   litetypo@outlook.com     coffetab        </h4>
 <h1>基本信息</h1>
-	<h4>姓名：潘宇晨</h4>
-	<h4>学历：大学本科</h4/h4>
+	<h4>姓名：<h4>
+	<h4>潘宇晨</body>
+	<h4>男，2002年出生</h4>
+	<h4>学历：<h4>大学本科</h4/h4>
 	<h4>工作经验</h4>
 	</h4>小组项目 利用python在PYNQ上做面部识别</body>
-	<h4>contribution:设计基于面部识别的神经网络</h4>
+	<h4>contribution:<>设计基于面部识别的神经网络</h4>
 	<img src=""C:\Users\Lenovo\Desktop\微信图片_20240706183002.jpg"
 	"
 	width="25" height="39" />
